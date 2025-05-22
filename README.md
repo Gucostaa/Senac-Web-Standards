@@ -31,7 +31,7 @@ Senac-Web-Standards/
 
 | Nome    | Função |
 |---------|--------|
-| **[Gustavo Costa](https://github.com/Gucostaa)** | Desenvolvedor web |
+| **[Gustavo Costa](https://github.com/Gucostaa)** | Desenvolvedor do projeto |
 
 ## ⚙️ Como Executar
 
