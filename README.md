@@ -2,8 +2,7 @@
 
 ## 📖 Visão Geral
 
-Este projeto foi desenvolvido como parte de uma atividade educacional no curso do Senac, com o objetivo de aplicar conhecimentos em HTML, CSS e princípios básicos de usabilidade. A proposta foi criar uma página institucional para uma profissional fictícia, a Dra. Marina Souza, Nutricionista Clínica e Esportiva, com apresentação dos serviços, depoimentos e um formulário de contato funcional.
-
+Este projeto foi desenvolvido como parte de uma atividade educacional no curso do Senac, com o objetivo de aplicar conhecimentos em HTML, CSS e princípios básicos de usabilidade. 
 ## 🎯 Objetivos do Projeto
 
 - Criar uma interface visual clara, responsiva e acessível
