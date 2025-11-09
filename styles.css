@@ -19,7 +19,7 @@ body {
 /* HERO */
 .hero {
     background: linear-gradient(135deg, #0052cc, #2684ff);
-    height: 70vh;
+    height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -207,3 +207,4 @@ footer {
         height: 60vh;
     }
 }
+
